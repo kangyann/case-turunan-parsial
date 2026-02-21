@@ -1,3 +1,5 @@
-| Attempt | #1    | #2    |
-| :-----: | :---: | :---: |
-| Seconds | 301   | 283   |
+| Query   | Type     | Required    |
+| :-----: | :------: | :---------: |
+| hashkey | string   | `YES`       |
+| courier | string   | `YES`       |
+| resi    | string   | `YES`       |
